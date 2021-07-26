@@ -1,0 +1,17 @@
+.featureA {
+    font-size: 1rem;
+    padding: 1rem 4rem;
+    border: none;
+    background: #ffc500;
+    color: #fff;
+    text-decoration: none;
+    transition: 0.2s ease-out;
+
+}
+.featureA:hover {
+    
+        color: #fff;
+        background: #e31837;
+        transition: 0.2s ease-out;
+        cursor: pointer;
+}

@@ -1,0 +1,10 @@
+{
+    "services": [{"id": 1, "title":"testpageCheckOut",
+        "thummbnailUrl": "http://localhost:3000/das.jpg",
+        "rating": 4, "specialist" : {"id": 1, "fullName":"Huy"}
+        },
+        {"id": 2, "title":"testpageCheckOut",
+            "thummbnailUrl": "http://localhost:3000/das.jpg",
+            "rating": 4, "specialist" : {"id": 1, "fullName":"Huy"}
+            }]
+}
